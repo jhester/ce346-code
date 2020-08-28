@@ -4,7 +4,7 @@
 
 ```
 python3 -m pip install kivy
-python3 -m pip install serial
+python3 -m pip install pyserial
 ```
 ### To-Do
 
